@@ -29,6 +29,7 @@ x86/
 bld/
 [Bb]in/
 [Oo]bj/
+[Oo]ut/
 [Ll]og/
 [Ll]ogs/
 
@@ -254,6 +255,7 @@ Generated_Code/
 # to a newer Visual Studio version. Backup files are not needed,
 # because we have git ;-)
 _UpgradeReport_Files/
+Backup*/
 UpgradeLog*.XML
 UpgradeLog*.htm
 ServiceFabricBackup/
@@ -360,6 +362,26 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# Ignorar carpetas de compilación en cualquier nivel 
-**/bin/ 
-**/obj/
+/.vs/Api_Core_Alquileres
+AUTHORIZATION/bin
+AUTHORIZATION/obj
+DATAACCESS/bin
+DATAACCESS/obj
+ENTITIES/bin
+ENTITIES/obj
+LOGGER/bin
+LOGGER/obj
+SECRYPT/bin
+SECRYPT/obj
+BUSSINESS/bin
+BUSSINESS/obj
+DATABASE/bin
+DATABASE/obj
+SERVICES/bin
+SERVICES/obj
+Api_Core_Alquileres/bin
+Api_Core_Alquileres/obj
+/.vs/ProjectEvaluation
+
+
+
