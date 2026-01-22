@@ -1,0 +1,12 @@
+D:\Api_Core_Alquiler\BUSSINESS\bin\Debug\net8.0\BUSSINESS.deps.json
+D:\Api_Core_Alquiler\BUSSINESS\bin\Debug\net8.0\BUSSINESS.dll
+D:\Api_Core_Alquiler\BUSSINESS\bin\Debug\net8.0\BUSSINESS.pdb
+D:\Api_Core_Alquiler\BUSSINESS\obj\Debug\net8.0\BUSSINESS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api_Core_Alquiler\BUSSINESS\obj\Debug\net8.0\BUSSINESS.AssemblyInfoInputs.cache
+D:\Api_Core_Alquiler\BUSSINESS\obj\Debug\net8.0\BUSSINESS.AssemblyInfo.cs
+D:\Api_Core_Alquiler\BUSSINESS\obj\Debug\net8.0\BUSSINESS.csproj.CoreCompileInputs.cache
+D:\Api_Core_Alquiler\BUSSINESS\obj\Debug\net8.0\BUSSINESS.sourcelink.json
+D:\Api_Core_Alquiler\BUSSINESS\obj\Debug\net8.0\BUSSINESS.dll
+D:\Api_Core_Alquiler\BUSSINESS\obj\Debug\net8.0\refint\BUSSINESS.dll
+D:\Api_Core_Alquiler\BUSSINESS\obj\Debug\net8.0\BUSSINESS.pdb
+D:\Api_Core_Alquiler\BUSSINESS\obj\Debug\net8.0\ref\BUSSINESS.dll

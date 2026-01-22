@@ -1,0 +1,12 @@
+D:\Api_Core_Alquiler\DATABASE\bin\Debug\net8.0\DATABASE.deps.json
+D:\Api_Core_Alquiler\DATABASE\bin\Debug\net8.0\DATABASE.dll
+D:\Api_Core_Alquiler\DATABASE\bin\Debug\net8.0\DATABASE.pdb
+D:\Api_Core_Alquiler\DATABASE\obj\Debug\net8.0\DATABASE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api_Core_Alquiler\DATABASE\obj\Debug\net8.0\DATABASE.AssemblyInfoInputs.cache
+D:\Api_Core_Alquiler\DATABASE\obj\Debug\net8.0\DATABASE.AssemblyInfo.cs
+D:\Api_Core_Alquiler\DATABASE\obj\Debug\net8.0\DATABASE.csproj.CoreCompileInputs.cache
+D:\Api_Core_Alquiler\DATABASE\obj\Debug\net8.0\DATABASE.sourcelink.json
+D:\Api_Core_Alquiler\DATABASE\obj\Debug\net8.0\DATABASE.dll
+D:\Api_Core_Alquiler\DATABASE\obj\Debug\net8.0\refint\DATABASE.dll
+D:\Api_Core_Alquiler\DATABASE\obj\Debug\net8.0\DATABASE.pdb
+D:\Api_Core_Alquiler\DATABASE\obj\Debug\net8.0\ref\DATABASE.dll

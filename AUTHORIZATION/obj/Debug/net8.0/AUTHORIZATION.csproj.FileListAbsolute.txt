@@ -1,0 +1,12 @@
+D:\Api_Core_Alquiler\AUTHORIZATION\bin\Debug\net8.0\AUTHORIZATION.deps.json
+D:\Api_Core_Alquiler\AUTHORIZATION\bin\Debug\net8.0\AUTHORIZATION.dll
+D:\Api_Core_Alquiler\AUTHORIZATION\bin\Debug\net8.0\AUTHORIZATION.pdb
+D:\Api_Core_Alquiler\AUTHORIZATION\obj\Debug\net8.0\AUTHORIZATION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api_Core_Alquiler\AUTHORIZATION\obj\Debug\net8.0\AUTHORIZATION.AssemblyInfoInputs.cache
+D:\Api_Core_Alquiler\AUTHORIZATION\obj\Debug\net8.0\AUTHORIZATION.AssemblyInfo.cs
+D:\Api_Core_Alquiler\AUTHORIZATION\obj\Debug\net8.0\AUTHORIZATION.csproj.CoreCompileInputs.cache
+D:\Api_Core_Alquiler\AUTHORIZATION\obj\Debug\net8.0\AUTHORIZATION.sourcelink.json
+D:\Api_Core_Alquiler\AUTHORIZATION\obj\Debug\net8.0\AUTHORIZATION.dll
+D:\Api_Core_Alquiler\AUTHORIZATION\obj\Debug\net8.0\refint\AUTHORIZATION.dll
+D:\Api_Core_Alquiler\AUTHORIZATION\obj\Debug\net8.0\AUTHORIZATION.pdb
+D:\Api_Core_Alquiler\AUTHORIZATION\obj\Debug\net8.0\ref\AUTHORIZATION.dll

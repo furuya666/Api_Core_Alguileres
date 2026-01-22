@@ -48,6 +48,7 @@ D:\Api_Core_Alquiler\Api_Core_Alquileres\obj\Debug\net8.0\Api_Core_Alquileres.As
 D:\Api_Core_Alquiler\Api_Core_Alquileres\obj\Debug\net8.0\Api_Core_Alquileres.csproj.CoreCompileInputs.cache
 D:\Api_Core_Alquiler\Api_Core_Alquileres\obj\Debug\net8.0\Api_Core_Alquileres.MvcApplicationPartsAssemblyInfo.cs
 D:\Api_Core_Alquiler\Api_Core_Alquileres\obj\Debug\net8.0\Api_Core_Alquileres.MvcApplicationPartsAssemblyInfo.cache
+D:\Api_Core_Alquiler\Api_Core_Alquileres\obj\Debug\net8.0\Api_Core_Alquileres.sourcelink.json
 D:\Api_Core_Alquiler\Api_Core_Alquileres\obj\Debug\net8.0\staticwebassets.build.json
 D:\Api_Core_Alquiler\Api_Core_Alquileres\obj\Debug\net8.0\staticwebassets.development.json
 D:\Api_Core_Alquiler\Api_Core_Alquileres\obj\Debug\net8.0\staticwebassets\msbuild.Api_Core_Alquileres.Microsoft.AspNetCore.StaticWebAssets.props

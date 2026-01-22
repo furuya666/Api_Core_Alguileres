@@ -1,0 +1,13 @@
+D:\Api_Core_Alquiler\LOGGER\bin\Debug\net8.0\LOGGER.deps.json
+D:\Api_Core_Alquiler\LOGGER\bin\Debug\net8.0\LOGGER.dll
+D:\Api_Core_Alquiler\LOGGER\bin\Debug\net8.0\LOGGER.pdb
+D:\Api_Core_Alquiler\LOGGER\obj\Debug\net8.0\LOGGER.csproj.AssemblyReference.cache
+D:\Api_Core_Alquiler\LOGGER\obj\Debug\net8.0\LOGGER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api_Core_Alquiler\LOGGER\obj\Debug\net8.0\LOGGER.AssemblyInfoInputs.cache
+D:\Api_Core_Alquiler\LOGGER\obj\Debug\net8.0\LOGGER.AssemblyInfo.cs
+D:\Api_Core_Alquiler\LOGGER\obj\Debug\net8.0\LOGGER.csproj.CoreCompileInputs.cache
+D:\Api_Core_Alquiler\LOGGER\obj\Debug\net8.0\LOGGER.sourcelink.json
+D:\Api_Core_Alquiler\LOGGER\obj\Debug\net8.0\LOGGER.dll
+D:\Api_Core_Alquiler\LOGGER\obj\Debug\net8.0\refint\LOGGER.dll
+D:\Api_Core_Alquiler\LOGGER\obj\Debug\net8.0\LOGGER.pdb
+D:\Api_Core_Alquiler\LOGGER\obj\Debug\net8.0\ref\LOGGER.dll
