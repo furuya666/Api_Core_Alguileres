@@ -359,3 +359,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignorar carpetas de compilación en cualquier nivel 
+**/bin/ 
+**/obj/
